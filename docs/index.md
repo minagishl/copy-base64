@@ -6,7 +6,7 @@ This extension copies Base64 to the clipboard by right-clicking on an image pres
 
 ## Notice
 
-This extension is still under development and may not work as expected.
+This extension is still under development and may not work as expected.  
 If this is the case, please contact us through the website listed in the developer's profile
 
 ## Supported Browsers
