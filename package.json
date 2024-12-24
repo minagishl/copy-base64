@@ -1,0 +1,38 @@
+{
+  "name": "copy-base64",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "build": "rimraf dist && node scripts/build.js",
+    "check": "biome check ./src",
+    "check:write": "biome check --write ./src",
+    "format": "biome format .",
+    "format:write": "biome format --write ./src",
+    "lint": "biome lint ./src",
+    "typecheck": "tsc --noEmit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minagishl/copy-base64.git"
+  },
+  "author": "minagishl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/minagishl/copy-base64/issues"
+  },
+  "homepage": "https://github.com/minagishl/copy-base64#readme",
+  "description": "Copies the image to the clipboard in Base64 format.",
+  "devDependencies": {
+    "@biomejs/biome": "^1.9.0",
+    "@types/chrome": "^0.0.267",
+    "@types/webextension-polyfill": "^0.10.7",
+    "archiver": "^7.0.1",
+    "esbuild": "^0.20.2",
+    "prettier": "^3.2.5",
+    "rimraf": "^5.0.5",
+    "typescript": "^5.4.5",
+    "webextension-polyfill": "^0.11.0"
+  },
+  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
+}
