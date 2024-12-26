@@ -9,6 +9,10 @@ This extension copies Base64 to the clipboard by right-clicking on an image pres
 This extension is still under development and may not work as expected.  
 If this is the case, please contact us through the website listed in the developer's profile
 
+## Install
+
+You can install it from the Chrome Web Store
+
 ## Supported Browsers
 
 - Chrome
