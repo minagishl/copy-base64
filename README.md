@@ -11,7 +11,7 @@ If this is the case, please contact us through the website listed in the develop
 
 ## Install
 
-You can install it from the Chrome Web Store
+You can install it from the [Chrome Web Store](https://chromewebstore.google.com/detail/copy-base64/blcalgpiemmbilniidphglhhmdilfpcm)
 
 ## Supported Browsers
 
