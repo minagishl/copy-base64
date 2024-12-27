@@ -6,12 +6,14 @@ This extension copies Base64 to the clipboard by right-clicking on an image pres
 
 ## Notice
 
-This extension is still under development and may not work as expected.  
+This extension is still under development and may not work as expected.
 If this is the case, please contact us through the website listed in the developer's profile
 
 ## Install
 
-You can install it from the [Chrome Web Store](https://chromewebstore.google.com/detail/copy-base64/blcalgpiemmbilniidphglhhmdilfpcm)
+It has been made private due to a glitch, and it is undecided if it will be made public in the future.
+
+~~You can install it from the [Chrome Web Store](https://chromewebstore.google.com/detail/copy-base64/blcalgpiemmbilniidphglhhmdilfpcm)~~
 
 ## Supported Browsers
 
